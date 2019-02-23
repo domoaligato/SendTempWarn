@@ -1,5 +1,9 @@
 Fork of anddav87/SendTempWarn for personal use.
-TODO: 
+============
+
+TODO:
+============
+
 1. Add automatic data upload to google sheets with formulas already calculated from 
   https://www.homebrewtalk.com/forum/threads/pasteurization-time-and-temperature-for-cider.581913/
     I have uploaded the original post here as original_posting.pdf as notes for later to complete this task, 
