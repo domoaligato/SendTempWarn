@@ -3,18 +3,15 @@ Fork of anddav87/SendTempWarn for personal use.
 
 TODO:
 ============
-
-1. Add automatic data upload to google sheets with formulas already calculated from 
-  https://www.homebrewtalk.com/forum/threads/pasteurization-time-and-temperature-for-cider.581913/
-    I have uploaded the original post here as original_posting.pdf as notes for later to complete this task, 
-    and to also provide source credit to bembel@homebrewtalk. Thank you.
-2. externalize the static variables that are in the script in a external configuration file. json/xml/ini/etc I have not decided yet. this will provide an easier way to update the script that is running without requiring to stop it.
+1. Add automatic data upload to google sheets with formulas already calculated from
+2. Externalize the static variables that are in the script in a external configuration file. I have not decided yet what format. 
 3. upload a systemd service to automate the execution of this script upon startup with a raspberry pi zero w.
 
 
 Original README.md below
 ============
-
+I have uploaded the original post here as original_posting.pdf as notes for later to complete this task, and to also provide source credit to bembel@homebrewtalk. Thank you.
+  https://www.homebrewtalk.com/forum/threads/pasteurization-time-and-temperature-for-cider.581913/
 
 
 SendTempWarn
@@ -33,3 +30,4 @@ Thanks!
 Andy
 
 andy@hymaswood.co.uk
+
