@@ -5,7 +5,7 @@ TODO:
 ============
 1. Add automatic data upload to google sheets with formulas already calculated from
 2. Externalize the static variables that are in the script in a external configuration file. I have not decided yet what format. 
-3. upload a systemd service to automate the execution of this script upon startup with a raspberry pi zero w.
+3. Upload a systemd service to automate the execution of this script upon startup with a raspberry pi zero w.
 
 
 Original README.md below
